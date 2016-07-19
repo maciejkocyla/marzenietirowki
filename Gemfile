@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem "therubyracer"
 gem 'rails', '>= 5.0.0.rc2', '< 5.1'
 gem 'sqlite3'
 gem 'puma', '~> 3.0'
