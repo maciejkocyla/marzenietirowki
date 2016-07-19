@@ -1,5 +1,5 @@
 # Change these
-server '139.59.128.105', port: 22, roles: [:web, :app, :db], primary: true
+server '139.59.128.105', port: 222, roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'git@github.com:maciejkocyla/marzenietirowki.git'
 set :application,     'marzenietirowki'
